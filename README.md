@@ -8,13 +8,13 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
-Soy estudiante de último año de Ingeniería Mecatrónica Agrícola con conocimientos sólidos en programación en Pytho y Arduino. Actualemente estoy aprendiendo sobre Backend y trabajando en proyectos de automatización de procesos en agrícultura. Me gusta aprender cosas nuevas y desarrollar soluciones útiles e innovadoras. 
+Soy estudiante de último año de Ingeniería Mecatrónica Agrícola con conocimientos sólidos en programación en Pytho y Arduino. Actualemente estoy aprendiendo sobre Microcontroladores y trabajando en proyectos de automatización de procesos en agrícultura. Me gusta aprender cosas nuevas y desarrollar soluciones útiles e innovadoras. 
 - 🌱 Estoy aprendiendo...
-  - SQL
-  - Flask
-  - C para programar microcontroladores
+  - C para programar microcontroladores PIC
+  - Internet de las Cosas (IoT)
+  - Agrícultura de Precisión
 - 👯 Estoy deseando colaborar en proyectos de código abierto.
-- Además también diseño modelos 3D de muebles y objetos para construir en la carpintería.
+- Además también diseño modelos 3D de muebles y objetos de electrónica.
 
   ## Mis habilidades
 
@@ -31,7 +31,7 @@ Soy estudiante de último año de Ingeniería Mecatrónica Agrícola con conocim
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Sistemas Operativos </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
