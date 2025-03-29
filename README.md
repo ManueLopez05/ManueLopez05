@@ -8,11 +8,11 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
-Soy estudiante de último año de Ingeniería Mecatrónica Agrícola con conocimientos sólidos en programación en Pytho y Arduino. Actualemente estoy aprendiendo sobre Microcontroladores y trabajando en proyectos de automatización de procesos en agrícultura. Me gusta aprender cosas nuevas y desarrollar soluciones útiles e innovadoras. 
+Soy estudiante de último año de Ingeniería Mecatrónica Agrícola con conocimientos sólidos en programación en Pytho y Arduino. Actualemente estoy aprendiendo sobre Baseses de datos y desarrallo web con python además de hacer proyectos de automatización de procesos en agrícultura y el hogar. Me gusta aprender cosas nuevas y desarrollar soluciones útiles e innovadoras. 
 - 🌱 Estoy aprendiendo...
-  - C para programar microcontroladores PIC
+  - Django
+  - MariaDB
   - Internet de las Cosas (IoT)
-  - Agrícultura de Precisión
 - 👯 Estoy deseando colaborar en proyectos de código abierto.
 - Además también diseño modelos 3D de muebles y objetos de electrónica.
 
